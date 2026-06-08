@@ -80,4 +80,10 @@ V následujících měsících bude vydána **kompletní a plně funkční verze
 * **Podrobnosti:** Tato zásadní aktualizace přinese zkompilované, funkční GSI sestavení připravené k nasazení.
 
 ---
+
+
+čau jsem things a chci neco říct
+Sentiel:Vysoce-vyspělý Antivirus integrován do jádra androidu udlám aby obošel virus :)
+
+na sentielu bud pracovat hodne ale pro zatim je toho dost SUP
 *Děkujeme, že sledujete a podporujete vývoj kynetixOS!*
