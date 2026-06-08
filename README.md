@@ -80,6 +80,4 @@ V následujících měsících bude vydána **kompletní a plně funkční verze
 * **Podrobnosti:** Tato zásadní aktualizace přinese zkompilované, funkční GSI sestavení připravené k nasazení.
 
 ---
-
-na sentielu bud pracovat hodne ale pro zatim je toho dost SUP
 *Děkujeme, že sledujete a podporujete vývoj kynetixOS!*
